@@ -26,7 +26,6 @@
 - 💼 GitHub: [github.com/Svilenkovic](https://github.com/Svilenkovic)  
 - 🌐 Portfolio: [www.svilenkovic.com](https://www.svilenkovic.com)  
 - 🧠 LinkedIn: [https://www.linkedin.com/in/dimitrije-svilenkovi%C4%87-151a13320](https://www.linkedin.com/in/dimitrije-svilenkovi%C4%87-151a13320/)
-- 
 
 ---
 
