@@ -77,6 +77,7 @@ Every project below has its own repository with screenshots, the stack, measured
 | [Ivković Prevoz](https://github.com/Svilenkovic/ivkovic-prevoz-case-study) | Firewood, freight and towing, Leskovac | [ivkovicprevoz.rs](https://ivkovicprevoz.rs/) |
 | [Milan Vlasić](https://github.com/Svilenkovic/milan-vlasic-case-study) | Real estate agent, Sydney and Belgrade | [bre.rs](https://bre.rs/) |
 | [Duca Dizajn](https://github.com/Svilenkovic/duca-dizajn-case-study) | Graphic design portfolio, Novi Sad | [ducadizajn.svilenkovic.com](https://ducadizajn.svilenkovic.com/) |
+| [FOX Models](https://github.com/Svilenkovic/fox-models-case-study) | Modeling agency redesign, Belgrade | [models.svilenkovic.rs](https://models.svilenkovic.rs/) |
 
 **Web apps and tools**
 
@@ -94,7 +95,6 @@ Every project below has its own repository with screenshots, the stack, measured
 | :-- | :-- | :-- |
 | [DJ Njace](https://github.com/Svilenkovic/dj-njace-case-study) | DJ website demo, Vranje | [djnjace.svilenkovic.rs](https://djnjace.svilenkovic.rs/) |
 | [Balkan RP](https://github.com/Svilenkovic/balkan-roleplay-case-study) | FiveM roleplay site demo | [rp.svilenkovic.rs](https://rp.svilenkovic.rs/) |
-| [FOX Models](https://github.com/Svilenkovic/fox-models-case-study) | Modeling agency concept, Belgrade | [models.svilenkovic.rs](https://models.svilenkovic.rs/) |
 
 </details>
 

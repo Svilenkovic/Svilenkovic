@@ -77,6 +77,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama, m
 | [Ivković Prevoz](https://github.com/Svilenkovic/ivkovic-prevoz-case-study) | Ogrevno drvo, prevoz i šlep, Leskovac | [ivkovicprevoz.rs](https://ivkovicprevoz.rs/) |
 | [Milan Vlasić](https://github.com/Svilenkovic/milan-vlasic-case-study) | Agent za nekretnine, Sidnej i Beograd | [bre.rs](https://bre.rs/) |
 | [Duca Dizajn](https://github.com/Svilenkovic/duca-dizajn-case-study) | Portfolio grafičkog dizajna, Novi Sad | [ducadizajn.svilenkovic.com](https://ducadizajn.svilenkovic.com/) |
+| [FOX Models](https://github.com/Svilenkovic/fox-models-case-study) | Redizajn za modelsku agenciju, Beograd | [models.svilenkovic.rs](https://models.svilenkovic.rs/) |
 
 **Web aplikacije i alati**
 
@@ -94,7 +95,6 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama, m
 | :-- | :-- | :-- |
 | [DJ Njace](https://github.com/Svilenkovic/dj-njace-case-study) | Demo sajta za DJ-a, Vranje | [djnjace.svilenkovic.rs](https://djnjace.svilenkovic.rs/) |
 | [Balkan RP](https://github.com/Svilenkovic/balkan-roleplay-case-study) | Demo sajta za FiveM zajednicu | [rp.svilenkovic.rs](https://rp.svilenkovic.rs/) |
-| [FOX Models](https://github.com/Svilenkovic/fox-models-case-study) | Koncept za modelsku agenciju, Beograd | [models.svilenkovic.rs](https://models.svilenkovic.rs/) |
 
 </details>
 
