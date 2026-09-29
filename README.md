@@ -2,7 +2,7 @@
 
 I design, build and host websites and web apps for businesses in Serbia. Most of my clients are small companies that need a fast site, a simple way to take inquiries or orders, and someone who keeps it all running after launch.
 
-Every project below has its own repository with screenshots, the stack, measured results and a link to the live site. The code itself stays private, because it belongs to the clients.
+Every project below has its own repository with a clear description, the stack, verification notes and a link to the live site. The code itself stays private.
 
 [svilenkovic.com](https://svilenkovic.com) · [dimitrije@svilenkovic.com](mailto:dimitrije@svilenkovic.com) · [Srpski](README.sr.md)
 
@@ -22,7 +22,7 @@ Every project below has its own repository with screenshots, the stack, measured
 </table>
 
 <details>
-<summary><b>All projects (47)</b></summary>
+<summary><b>All projects (64)</b></summary>
 
 **Web shops**
 
@@ -88,6 +88,28 @@ Every project below has its own repository with screenshots, the stack, measured
 | [Svilenkovic Mail](https://github.com/Svilenkovic/svilenkovic-mail-case-study) | Webmail with an Android app | [mail.svilenkovic.com](https://mail.svilenkovic.com/) |
 | [Admin Panel](https://github.com/Svilenkovic/sites-panel-case-study) | Internal hosting panel | [product page](https://svilenkovic.com/en/aplikacija-admin-panel) |
 | [Digitalna pozivnica](https://github.com/Svilenkovic/digital-invitation-case-study) | Digital invitation for private events | [product page](https://svilenkovic.com/en/aplikacija-digitalna-pozivnica) |
+
+**Own studios and specialist sites**
+
+| Project | What it covers | Live |
+| :-- | :-- | :-- |
+| [Sajtovi za firme](https://github.com/Svilenkovic/sajtovi-za-firme-case-study) | Website requirements by industry | [sajtovizafirme.com](https://sajtovizafirme.com/) |
+| [Sajt za firmu](https://github.com/Svilenkovic/sajt-za-firmu-case-study) | Website checks and project preparation | [sajtzafirmu.com](https://sajtzafirmu.com/) |
+| [Novi sajtovi](https://github.com/Svilenkovic/novi-sajtovi-case-study) | Controlled launches and migrations | [novisajtovi.com](https://novisajtovi.com/) |
+| [Svilenković IT](https://github.com/Svilenkovic/svilenkovic-it-case-study) | Domains, mail and web security | [svilenkovicit.com](https://svilenkovicit.com/) |
+| [Radionica](https://github.com/Svilenkovic/digitalna-radionica-case-study) | Practical browser tools and lessons | [digitalnaradionica.com](https://digitalnaradionica.com/) |
+| [Svilenković Studio](https://github.com/Svilenkovic/svilenkovic-studio-case-study) | Design, typography and interaction | [svilenkovicstudio.com](https://svilenkovicstudio.com/) |
+| [Svilenković Digital](https://github.com/Svilenkovic/svilenkovic-digital-case-study) | Local visibility and search structure | [svilenkovicdigital.com](https://svilenkovicdigital.com/) |
+| [Svilenković Soft](https://github.com/Svilenkovic/svilenkovic-soft-case-study) | Custom business applications | [svilenkovicsoft.com](https://svilenkovicsoft.com/) |
+| [Svilenković Web](https://github.com/Svilenkovic/svilenkovic-web-case-study) | Web shops and B2B catalogues | [svilenkovicweb.com](https://svilenkovicweb.com/) |
+| [Svilenković Agency](https://github.com/Svilenkovic/svilenkovic-agency-case-study) | Partner implementation for studios and agencies | [svilenkovicagency.com](https://svilenkovicagency.com/) |
+| [Svilenković Group](https://github.com/Svilenkovic/svilenkovic-group-case-study) | Multi-brand web systems | [svilenkovicgroup.com](https://svilenkovicgroup.com/) |
+| [D. Svilenković Notes](https://github.com/Svilenkovic/dsvilenkovic-case-study) | Technical notes and decisions | [dsvilenkovic.com](https://dsvilenkovic.com/) |
+| [Balkan Web Studio](https://github.com/Svilenkovic/balkan-web-studio-case-study) | International web collaboration | [balkanwebstudio.com](https://balkanwebstudio.com/) |
+| [Web Redesign Studio](https://github.com/Svilenkovic/web-redesign-studio-case-study) | Complete website redesign | [webredesignstudio.com](https://webredesignstudio.com/) |
+| [Web Refresh Studio](https://github.com/Svilenkovic/web-refresh-studio-case-study) | Targeted website improvement | [webrefreshstudio.com](https://webrefreshstudio.com/) |
+| [Svilenković Dev](https://github.com/Svilenkovic/svilenkovic-dev-case-study) | Integrations and web engineering | [svilenkovicdev.com](https://svilenkovicdev.com/) |
+| [D. Svilenković Portfolio](https://github.com/Svilenkovic/dimitrije-svilenkovic-portfolio-case-study) | Selected work and working method | [dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/) |
 
 **Own demos and concepts**
 
