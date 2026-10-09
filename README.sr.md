@@ -2,7 +2,7 @@
 
 Radim dizajn, izradu i hosting sajtova i web aplikacija za firme u Srbiji. Klijenti su uglavnom manje firme kojima treba brz sajt, jednostavan način da prime upit ili porudžbinu i neko ko se o svemu stara i posle objave.
 
-Svaki projekat ispod ima svoj repozitorijum sa jasnim opisom, tehnologijama, beleškama o proverama i linkom ka živom sajtu. Sam kod ostaje privatan.
+Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i linkom ka živom sajtu. Sam kod ostaje privatan: klijentski pripada klijentima, a ni moji sopstveni sajtovi nisu otvorenog koda.
 
 [svilenkovic.rs](https://svilenkovic.rs) · [dimitrije@svilenkovic.com](mailto:dimitrije@svilenkovic.com) · [English](README.md)
 
@@ -22,7 +22,7 @@ Svaki projekat ispod ima svoj repozitorijum sa jasnim opisom, tehnologijama, bel
 </table>
 
 <details>
-<summary><b>Svi projekti (64)</b></summary>
+<summary><b>Svi projekti (66)</b></summary>
 
 **Web prodavnice**
 
@@ -32,6 +32,7 @@ Svaki projekat ispod ima svoj repozitorijum sa jasnim opisom, tehnologijama, bel
 | [Shadow Style Shop](https://github.com/Svilenkovic/shadow-style-shop-case-study) | Prodavnica majica sa printom, Srbija | [shadowstyleshop.rs](https://shadowstyleshop.rs/) |
 | [Hemax Pro Wash](https://github.com/Svilenkovic/hemax-pro-wash-case-study) | Prodavnica profesionalne hemije, Leskovac | [hemaxprowash.com](https://hemaxprowash.com/) |
 | [Prva Lekcija](https://github.com/Svilenkovic/prva-lekcija-case-study) | Priprema za maturu, Zagreb | [prvalekcija.com](https://prvalekcija.com/) |
+| [Shop Poppers](https://github.com/Svilenkovic/shop-poppers-case-study) | Web prodavnica i katalog, Srbija | [shoppoppers.rs](https://shoppoppers.rs/) |
 
 **Portali i platforme za porudžbine**
 
@@ -46,6 +47,7 @@ Svaki projekat ispod ima svoj repozitorijum sa jasnim opisom, tehnologijama, bel
 | Projekat | Šta je | Sajt |
 | :-- | :-- | :-- |
 | [ARHIFARM](https://github.com/Svilenkovic/arhifarm-case-study) | Industrijska čišćenja i dijagnostika, sopstveni CMS | [arhifarm.rs](https://arhifarm.rs/) |
+| [EVROCERT](https://github.com/Svilenkovic/evrocert-case-study) | Sertifikaciono telo, Kragujevac | [evrocert.rs](https://evrocert.rs/) |
 | [SRMEK](https://github.com/Svilenkovic/srmek-case-study) | Udruženje za kvalitet, Kragujevac | [srmek.org](https://srmek.org/) |
 | [Zadužbina Jovo Lojanica Stupljanin](https://github.com/Svilenkovic/zaduzbina-lojanica-case-study) | Istraživačka zadužbina, Sjenica | [zaduzbinalojanica.rs](https://zaduzbinalojanica.rs/) |
 | [Nora Perfekt](https://github.com/Svilenkovic/nora-perfekt-case-study) | Čišćenje i popločavanje, Srbija | [noraperfekt.rs](https://noraperfekt.rs/) |
@@ -59,7 +61,7 @@ Svaki projekat ispod ima svoj repozitorijum sa jasnim opisom, tehnologijama, bel
 | [Klimatronik 016](https://github.com/Svilenkovic/klimatronik-016-case-study) | Montaža i servis klima, Leskovac | [klimatronik.rs](https://klimatronik.rs/) |
 | [3D Art Kragujevac](https://github.com/Svilenkovic/3d-art-kragujevac-case-study) | Radionica svetlećih reklama, Kragujevac | [svetlecereklame3dart.rs](https://svetlecereklame3dart.rs/) |
 | [Jupiter Planet](https://github.com/Svilenkovic/jupiter-planet-case-study) | Štampa i vez majica, Kragujevac | [jupiterplanet.rs](https://jupiterplanet.rs/) |
-| [Denis Market 97](https://github.com/Svilenkovic/denis-market-97-case-study) | Market i kore za pitu, Nikolinci | [denismarket.rs](https://denismarket.rs/) |
+| [Denis Market 97](https://github.com/Svilenkovic/denis-market-97-case-study) | Market i kore za pitu, Nikolinci | van mreže |
 | [Golden Pets Hotel](https://github.com/Svilenkovic/golden-pets-hotel-case-study) | Pansion za pse malih rasa, Beograd | [hotelpansionzapse.com](https://www.hotelpansionzapse.com/) |
 | [Trubači Stars](https://github.com/Svilenkovic/trubaci-stars-case-study) | Trubački orkestar, Leskovac | [trubacizaslavlja.rs](https://trubacizaslavlja.rs/) |
 | [Trubači Stars Beograd](https://github.com/Svilenkovic/trubaci-stars-svadbe-case-study) | Trubački orkestar, Beograd | [trubaci-trubacizasvadbe.rs](https://trubaci-trubacizasvadbe.rs/) |
@@ -91,20 +93,20 @@ Svaki projekat ispod ima svoj repozitorijum sa jasnim opisom, tehnologijama, bel
 
 **Sopstveni studiji i specijalizovani sajtovi**
 
-| Projekat | Oblast | Sajt |
+| Projekat | Šta je | Sajt |
 | :-- | :-- | :-- |
-| [Sajtovi za firme](https://github.com/Svilenkovic/sajtovi-za-firme-case-study) | Zahtevi sajta po delatnostima | [sajtovizafirme.com](https://sajtovizafirme.com/) |
-| [Sajt za firmu](https://github.com/Svilenkovic/sajt-za-firmu-case-study) | Provera sajta i priprema projekta | [sajtzafirmu.com](https://sajtzafirmu.com/) |
-| [Novi sajtovi](https://github.com/Svilenkovic/novi-sajtovi-case-study) | Kontrolisana lansiranja i migracije | [novisajtovi.com](https://novisajtovi.com/) |
-| [Svilenković IT](https://github.com/Svilenkovic/svilenkovic-it-case-study) | Domeni, mail i web bezbednost | [svilenkovicit.com](https://svilenkovicit.com/) |
-| [Radionica](https://github.com/Svilenkovic/digitalna-radionica-case-study) | Praktični alati u pregledaču i lekcije | [digitalnaradionica.com](https://digitalnaradionica.com/) |
+| [Sajtovi za firme](https://github.com/Svilenkovic/sajtovi-za-firme-case-study) | Šta sajt firme mora da ima, po delatnostima | [sajtovizafirme.com](https://sajtovizafirme.com/) |
+| [Sajt za firmu](https://github.com/Svilenkovic/sajt-za-firmu-case-study) | Provera sajta i priprema za izradu | [sajtzafirmu.com](https://sajtzafirmu.com/) |
+| [Novi sajtovi](https://github.com/Svilenkovic/novi-sajtovi-case-study) | Objava i selidba sajta | [novisajtovi.com](https://novisajtovi.com/) |
+| [Svilenković IT](https://github.com/Svilenkovic/svilenkovic-it-case-study) | Domen, mejl i sigurnost sajta | [svilenkovicit.com](https://svilenkovicit.com/) |
+| [Radionica](https://github.com/Svilenkovic/digitalna-radionica-case-study) | Alati u pregledaču i lekcije | [digitalnaradionica.com](https://digitalnaradionica.com/) |
 | [Svilenković Studio](https://github.com/Svilenkovic/svilenkovic-studio-case-study) | Dizajn, tipografija i interakcija | [svilenkovicstudio.com](https://svilenkovicstudio.com/) |
-| [Svilenković Digital](https://github.com/Svilenkovic/svilenkovic-digital-case-study) | Lokalna vidljivost i struktura pretrage | [svilenkovicdigital.com](https://svilenkovicdigital.com/) |
+| [Svilenković Digital](https://github.com/Svilenkovic/svilenkovic-digital-case-study) | Lokalna vidljivost i pretraga | [svilenkovicdigital.com](https://svilenkovicdigital.com/) |
 | [Svilenković Soft](https://github.com/Svilenkovic/svilenkovic-soft-case-study) | Poslovne aplikacije po meri | [svilenkovicsoft.com](https://svilenkovicsoft.com/) |
 | [Svilenković Web](https://github.com/Svilenkovic/svilenkovic-web-case-study) | Web prodavnice i B2B katalozi | [svilenkovicweb.com](https://svilenkovicweb.com/) |
-| [Svilenković Agency](https://github.com/Svilenkovic/svilenkovic-agency-case-study) | Partnerska implementacija za studije i agencije | [svilenkovicagency.com](https://svilenkovicagency.com/) |
-| [Svilenković Group](https://github.com/Svilenkovic/svilenkovic-group-case-study) | Web sistemi za više brendova | [svilenkovicgroup.com](https://svilenkovicgroup.com/) |
-| [D. Svilenković Beleške](https://github.com/Svilenkovic/dsvilenkovic-case-study) | Tehničke beleške i odluke | [dsvilenkovic.com](https://dsvilenkovic.com/) |
+| [Svilenković Agency](https://github.com/Svilenkovic/svilenkovic-agency-case-study) | Saradnja sa studijima i agencijama | [svilenkovicagency.com](https://svilenkovicagency.com/) |
+| [Svilenković Group](https://github.com/Svilenkovic/svilenkovic-group-case-study) | Sistemi za više brendova | [svilenkovicgroup.com](https://svilenkovicgroup.com/) |
+| [D. Svilenković Notes](https://github.com/Svilenkovic/dsvilenkovic-case-study) | Tehničke beleške i odluke | [dsvilenkovic.com](https://dsvilenkovic.com/) |
 | [Balkan Web Studio](https://github.com/Svilenkovic/balkan-web-studio-case-study) | Međunarodna web saradnja | [balkanwebstudio.com](https://balkanwebstudio.com/) |
 | [Web Redesign Studio](https://github.com/Svilenkovic/web-redesign-studio-case-study) | Potpun redizajn sajta | [webredesignstudio.com](https://webredesignstudio.com/) |
 | [Web Refresh Studio](https://github.com/Svilenkovic/web-refresh-studio-case-study) | Ciljano osvežavanje sajta | [webrefreshstudio.com](https://webrefreshstudio.com/) |

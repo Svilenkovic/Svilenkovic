@@ -2,7 +2,7 @@
 
 I design, build and host websites and web apps for businesses in Serbia. Most of my clients are small companies that need a fast site, a simple way to take inquiries or orders, and someone who keeps it all running after launch.
 
-Every project below has its own repository with a clear description, the stack, verification notes and a link to the live site. The code itself stays private.
+Every project below has its own repository with screenshots, the stack and a link to the live site. The code itself stays private: client code belongs to the clients, and my own sites are not open source either.
 
 [svilenkovic.com](https://svilenkovic.com) · [dimitrije@svilenkovic.com](mailto:dimitrije@svilenkovic.com) · [Srpski](README.sr.md)
 
@@ -22,7 +22,7 @@ Every project below has its own repository with a clear description, the stack, 
 </table>
 
 <details>
-<summary><b>All projects (64)</b></summary>
+<summary><b>All projects (66)</b></summary>
 
 **Web shops**
 
@@ -32,6 +32,7 @@ Every project below has its own repository with a clear description, the stack, 
 | [Shadow Style Shop](https://github.com/Svilenkovic/shadow-style-shop-case-study) | T-shirt print shop, Serbia | [shadowstyleshop.rs](https://shadowstyleshop.rs/) |
 | [Hemax Pro Wash](https://github.com/Svilenkovic/hemax-pro-wash-case-study) | Cleaning chemicals shop, Leskovac | [hemaxprowash.com](https://hemaxprowash.com/) |
 | [Prva Lekcija](https://github.com/Svilenkovic/prva-lekcija-case-study) | Matura exam prep, Zagreb | [prvalekcija.com](https://prvalekcija.com/) |
+| [Shop Poppers](https://github.com/Svilenkovic/shop-poppers-case-study) | Online shop and catalogue, Serbia | [shoppoppers.rs](https://shoppoppers.rs/) |
 
 **Portals and ordering platforms**
 
@@ -46,6 +47,7 @@ Every project below has its own repository with a clear description, the stack, 
 | Project | What it is | Live |
 | :-- | :-- | :-- |
 | [ARHIFARM](https://github.com/Svilenkovic/arhifarm-case-study) | Industrial cleaning and diagnostics, custom CMS | [arhifarm.rs](https://arhifarm.rs/) |
+| [EVROCERT](https://github.com/Svilenkovic/evrocert-case-study) | Certification body, Kragujevac | [evrocert.rs](https://evrocert.rs/) |
 | [SRMEK](https://github.com/Svilenkovic/srmek-case-study) | Quality association, Kragujevac | [srmek.org](https://srmek.org/) |
 | [Zadužbina Jovo Lojanica Stupljanin](https://github.com/Svilenkovic/zaduzbina-lojanica-case-study) | Research endowment, Sjenica | [zaduzbinalojanica.rs](https://zaduzbinalojanica.rs/) |
 | [Nora Perfekt](https://github.com/Svilenkovic/nora-perfekt-case-study) | Cleaning and paving, Serbia | [noraperfekt.rs](https://noraperfekt.rs/) |
@@ -59,7 +61,7 @@ Every project below has its own repository with a clear description, the stack, 
 | [Klimatronik 016](https://github.com/Svilenkovic/klimatronik-016-case-study) | Air conditioning service, Leskovac | [klimatronik.rs](https://klimatronik.rs/) |
 | [3D Art Kragujevac](https://github.com/Svilenkovic/3d-art-kragujevac-case-study) | Sign workshop, Kragujevac | [svetlecereklame3dart.rs](https://svetlecereklame3dart.rs/) |
 | [Jupiter Planet](https://github.com/Svilenkovic/jupiter-planet-case-study) | Print and embroidery workshop, Kragujevac | [jupiterplanet.rs](https://jupiterplanet.rs/) |
-| [Denis Market 97](https://github.com/Svilenkovic/denis-market-97-case-study) | Grocery store and filo pastry, Nikolinci | [denismarket.rs](https://denismarket.rs/) |
+| [Denis Market 97](https://github.com/Svilenkovic/denis-market-97-case-study) | Grocery store and filo pastry, Nikolinci | offline |
 | [Golden Pets Hotel](https://github.com/Svilenkovic/golden-pets-hotel-case-study) | Boarding for small dogs, Belgrade | [hotelpansionzapse.com](https://www.hotelpansionzapse.com/) |
 | [Trubači Stars](https://github.com/Svilenkovic/trubaci-stars-case-study) | Brass band, Leskovac | [trubacizaslavlja.rs](https://trubacizaslavlja.rs/) |
 | [Trubači Stars Beograd](https://github.com/Svilenkovic/trubaci-stars-svadbe-case-study) | Brass band, Belgrade | [trubaci-trubacizasvadbe.rs](https://trubaci-trubacizasvadbe.rs/) |
@@ -86,23 +88,23 @@ Every project below has its own repository with a clear description, the stack, 
 | [Registracioni rokovnik](https://github.com/Svilenkovic/rokovnik-case-study) | Software for registration agencies | [rokovnik.svilenkovic.com](https://rokovnik.svilenkovic.com/) |
 | [Kompres](https://github.com/Svilenkovic/kompres-case-study) | Image compression in the browser | [compress.svilenkovic.rs](https://compress.svilenkovic.rs/) |
 | [Svilenkovic Mail](https://github.com/Svilenkovic/svilenkovic-mail-case-study) | Webmail with an Android app | [mail.svilenkovic.com](https://mail.svilenkovic.com/) |
-| [Admin Panel](https://github.com/Svilenkovic/sites-panel-case-study) | Internal hosting panel | [product page](https://svilenkovic.com/en/aplikacija-admin-panel) |
-| [Digitalna pozivnica](https://github.com/Svilenkovic/digital-invitation-case-study) | Digital invitation for private events | [product page](https://svilenkovic.com/en/aplikacija-digitalna-pozivnica) |
+| [Admin Panel](https://github.com/Svilenkovic/sites-panel-case-study) | Internal hosting panel | [product page](https://svilenkovic.com/aplikacija-admin-panel) |
+| [Digitalna pozivnica](https://github.com/Svilenkovic/digital-invitation-case-study) | Digital invitation for private events | [product page](https://svilenkovic.com/aplikacija-digitalna-pozivnica) |
 
 **Own studios and specialist sites**
 
-| Project | What it covers | Live |
+| Project | What it is | Live |
 | :-- | :-- | :-- |
 | [Sajtovi za firme](https://github.com/Svilenkovic/sajtovi-za-firme-case-study) | Website requirements by industry | [sajtovizafirme.com](https://sajtovizafirme.com/) |
 | [Sajt za firmu](https://github.com/Svilenkovic/sajt-za-firmu-case-study) | Website checks and project preparation | [sajtzafirmu.com](https://sajtzafirmu.com/) |
-| [Novi sajtovi](https://github.com/Svilenkovic/novi-sajtovi-case-study) | Controlled launches and migrations | [novisajtovi.com](https://novisajtovi.com/) |
+| [Novi sajtovi](https://github.com/Svilenkovic/novi-sajtovi-case-study) | Website launches and migrations | [novisajtovi.com](https://novisajtovi.com/) |
 | [Svilenković IT](https://github.com/Svilenkovic/svilenkovic-it-case-study) | Domains, mail and web security | [svilenkovicit.com](https://svilenkovicit.com/) |
-| [Radionica](https://github.com/Svilenkovic/digitalna-radionica-case-study) | Practical browser tools and lessons | [digitalnaradionica.com](https://digitalnaradionica.com/) |
+| [Radionica](https://github.com/Svilenkovic/digitalna-radionica-case-study) | Browser tools and lessons | [digitalnaradionica.com](https://digitalnaradionica.com/) |
 | [Svilenković Studio](https://github.com/Svilenkovic/svilenkovic-studio-case-study) | Design, typography and interaction | [svilenkovicstudio.com](https://svilenkovicstudio.com/) |
 | [Svilenković Digital](https://github.com/Svilenkovic/svilenkovic-digital-case-study) | Local visibility and search structure | [svilenkovicdigital.com](https://svilenkovicdigital.com/) |
 | [Svilenković Soft](https://github.com/Svilenkovic/svilenkovic-soft-case-study) | Custom business applications | [svilenkovicsoft.com](https://svilenkovicsoft.com/) |
 | [Svilenković Web](https://github.com/Svilenkovic/svilenkovic-web-case-study) | Web shops and B2B catalogues | [svilenkovicweb.com](https://svilenkovicweb.com/) |
-| [Svilenković Agency](https://github.com/Svilenkovic/svilenkovic-agency-case-study) | Partner implementation for studios and agencies | [svilenkovicagency.com](https://svilenkovicagency.com/) |
+| [Svilenković Agency](https://github.com/Svilenkovic/svilenkovic-agency-case-study) | Partner work for studios and agencies | [svilenkovicagency.com](https://svilenkovicagency.com/) |
 | [Svilenković Group](https://github.com/Svilenkovic/svilenkovic-group-case-study) | Multi-brand web systems | [svilenkovicgroup.com](https://svilenkovicgroup.com/) |
 | [D. Svilenković Notes](https://github.com/Svilenkovic/dsvilenkovic-case-study) | Technical notes and decisions | [dsvilenkovic.com](https://dsvilenkovic.com/) |
 | [Balkan Web Studio](https://github.com/Svilenkovic/balkan-web-studio-case-study) | International web collaboration | [balkanwebstudio.com](https://balkanwebstudio.com/) |
