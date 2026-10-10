@@ -22,7 +22,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 </table>
 
 <details>
-<summary><b>Svi projekti (66)</b></summary>
+<summary><b>Svi projekti (68)</b></summary>
 
 **Web prodavnice**
 
@@ -48,6 +48,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 | :-- | :-- | :-- |
 | [ARHIFARM](https://github.com/Svilenkovic/arhifarm-case-study) | Industrijska čišćenja i dijagnostika, sopstveni CMS | [arhifarm.rs](https://arhifarm.rs/) |
 | [EVROCERT](https://github.com/Svilenkovic/evrocert-case-study) | Sertifikaciono telo, Kragujevac | [evrocert.rs](https://evrocert.rs/) |
+| [Dekoracije Lux](https://github.com/Svilenkovic/dekoracije-lux-case-study) | Dekoracije proslava, Šabac | [dekoracijelux.rs](https://dekoracijelux.rs/) |
 | [SRMEK](https://github.com/Svilenkovic/srmek-case-study) | Udruženje za kvalitet, Kragujevac | [srmek.org](https://srmek.org/) |
 | [Zadužbina Jovo Lojanica Stupljanin](https://github.com/Svilenkovic/zaduzbina-lojanica-case-study) | Istraživačka zadužbina, Sjenica | [zaduzbinalojanica.rs](https://zaduzbinalojanica.rs/) |
 | [Nora Perfekt](https://github.com/Svilenkovic/nora-perfekt-case-study) | Čišćenje i popločavanje, Srbija | [noraperfekt.rs](https://noraperfekt.rs/) |
@@ -73,6 +74,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 | [Kraljevi Čardaci 11/61](https://github.com/Svilenkovic/kraljevi-cardaci-case-study) | Apartman za prodaju i izdavanje, Kopaonik | [kraljevicardaci.svilenkovic.rs](https://kraljevicardaci.svilenkovic.rs/) |
 | [Diamond Lux Kopaonik](https://github.com/Svilenkovic/diamond-lux-kopaonik-case-study) | Apartman za izdavanje, Kopaonik | [diamondlux.svilenkovic.rs](https://diamondlux.svilenkovic.rs/) |
 | [Halo City Leskovac](https://github.com/Svilenkovic/halo-city-leskovac-case-study) | Prodaja i servis telefona, Leskovac | [halocity.svilenkovic.rs](https://halocity.svilenkovic.rs/) |
+| [OnBeat.ba](https://github.com/Svilenkovic/onbeat-ba-case-study) | DJ škola i produkcija događaja, Sarajevo | [onbeat.ba](https://onbeat.ba/) |
 | [Aleksa Insajder](https://github.com/Svilenkovic/aleksa-insajder-case-study) | Sportski kreator sadržaja, Srbija | [aleksainsajder.rs](https://aleksainsajder.rs/) |
 | [Bata Stanković PR](https://github.com/Svilenkovic/bata-stankovic-case-study) | Knjigovodstvena agencija, Lebane | [batastankovic.com](https://batastankovic.com/) |
 | [Detailing 016](https://github.com/Svilenkovic/detailing-016-case-study) | Auto detailing studio, Leskovac | [detailing016.rs](https://detailing016.rs/) |
