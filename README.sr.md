@@ -22,7 +22,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 </table>
 
 <details>
-<summary><b>Svi projekti (68)</b></summary>
+<summary><b>Svi projekti (71)</b></summary>
 
 **Web prodavnice**
 
@@ -41,6 +41,8 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 | [Leskovački Kutak](https://github.com/Svilenkovic/leskovacki-kutak-case-study) | Roštilj sa dostavom, Beograd | [leskovackikutak.rs](https://leskovackikutak.rs/) |
 | [Klasičan Gejming](https://github.com/Svilenkovic/klasican-gejming-case-study) | Gaming portal, Srbija | [klasicangejming.com](https://klasicangejming.com/) |
 | [KG Loot](https://github.com/Svilenkovic/kg-loot-case-study) | Oglasi za gaming opremu, Srbija | [loot.klasicangejming.com](https://loot.klasicangejming.com/) |
+| [Radio AMI](https://github.com/Svilenkovic/radio-ami-case-study) | Portal radija, Kikinda | [amiradio.rs](https://www.amiradio.rs/) |
+| [Ami Naxi Radio 105](https://github.com/Svilenkovic/ami-naxi-radio-case-study) | Portal radija, Zrenjanin | [aminaxiradio.rs](https://aminaxiradio.rs/) |
 
 **Poslovni sajtovi**
 
@@ -49,6 +51,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 | [ARHIFARM](https://github.com/Svilenkovic/arhifarm-case-study) | Industrijska čišćenja i dijagnostika, sopstveni CMS | [arhifarm.rs](https://arhifarm.rs/) |
 | [EVROCERT](https://github.com/Svilenkovic/evrocert-case-study) | Sertifikaciono telo, Kragujevac | [evrocert.rs](https://evrocert.rs/) |
 | [Dekoracije Lux](https://github.com/Svilenkovic/dekoracije-lux-case-study) | Dekoracije proslava, Šabac | [dekoracijelux.rs](https://dekoracijelux.rs/) |
+| [Pallas Radio](https://github.com/Svilenkovic/pallas-radio-case-study) | Sajt radija, Kikinda | [pallasradio.com](https://www.pallasradio.com/) |
 | [SRMEK](https://github.com/Svilenkovic/srmek-case-study) | Udruženje za kvalitet, Kragujevac | [srmek.org](https://srmek.org/) |
 | [Zadužbina Jovo Lojanica Stupljanin](https://github.com/Svilenkovic/zaduzbina-lojanica-case-study) | Istraživačka zadužbina, Sjenica | [zaduzbinalojanica.rs](https://zaduzbinalojanica.rs/) |
 | [Nora Perfekt](https://github.com/Svilenkovic/nora-perfekt-case-study) | Čišćenje i popločavanje, Srbija | [noraperfekt.rs](https://noraperfekt.rs/) |
