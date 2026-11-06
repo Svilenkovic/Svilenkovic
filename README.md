@@ -22,7 +22,7 @@ Every project below has its own repository with screenshots, the stack and a lin
 </table>
 
 <details>
-<summary><b>All projects (71)</b></summary>
+<summary><b>All projects (73)</b></summary>
 
 **Web shops**
 
@@ -50,8 +50,10 @@ Every project below has its own repository with screenshots, the stack and a lin
 | :-- | :-- | :-- |
 | [ARHIFARM](https://github.com/Svilenkovic/arhifarm-case-study) | Industrial cleaning and diagnostics, custom CMS | [arhifarm.rs](https://arhifarm.rs/) |
 | [EVROCERT](https://github.com/Svilenkovic/evrocert-case-study) | Certification body, Kragujevac | [evrocert.rs](https://evrocert.rs/) |
+| [NiTechno Clima](https://github.com/Svilenkovic/nitechno-clima-case-study) | HVAC company with a catalogue, Niš | [nitechnoclima.com](https://nitechnoclima.com/) |
 | [Dekoracije Lux](https://github.com/Svilenkovic/dekoracije-lux-case-study) | Celebration decorations, Šabac | [dekoracijelux.rs](https://dekoracijelux.rs/) |
 | [Pallas Radio](https://github.com/Svilenkovic/pallas-radio-case-study) | Radio station website, Kikinda | [pallasradio.com](https://www.pallasradio.com/) |
+| [Magdalena Vlastelica](https://github.com/Svilenkovic/magdalena-vlastelica-case-study) | Painter's website, Čačak | [magdalena.rs](https://magdalena.rs/) |
 | [SRMEK](https://github.com/Svilenkovic/srmek-case-study) | Quality association, Kragujevac | [srmek.org](https://srmek.org/) |
 | [Zadužbina Jovo Lojanica Stupljanin](https://github.com/Svilenkovic/zaduzbina-lojanica-case-study) | Research endowment, Sjenica | [zaduzbinalojanica.rs](https://zaduzbinalojanica.rs/) |
 | [Nora Perfekt](https://github.com/Svilenkovic/nora-perfekt-case-study) | Cleaning and paving, Serbia | [noraperfekt.rs](https://noraperfekt.rs/) |
