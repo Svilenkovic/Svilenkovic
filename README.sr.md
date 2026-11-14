@@ -22,7 +22,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 </table>
 
 <details>
-<summary><b>Svi projekti (73)</b></summary>
+<summary><b>Svi projekti (74)</b></summary>
 
 **Web prodavnice**
 
@@ -57,6 +57,7 @@ Svaki projekat ispod ima svoj repozitorijum sa snimcima ekrana, tehnologijama i 
 | [SRMEK](https://github.com/Svilenkovic/srmek-case-study) | Udruženje za kvalitet, Kragujevac | [srmek.org](https://srmek.org/) |
 | [Zadužbina Jovo Lojanica Stupljanin](https://github.com/Svilenkovic/zaduzbina-lojanica-case-study) | Istraživačka zadužbina, Sjenica | [zaduzbinalojanica.rs](https://zaduzbinalojanica.rs/) |
 | [Nora Perfekt](https://github.com/Svilenkovic/nora-perfekt-case-study) | Čišćenje i popločavanje, Srbija | [noraperfekt.rs](https://noraperfekt.rs/) |
+| [Auto Servis Miljan94](https://github.com/Svilenkovic/miljan94-case-study) | Auto servis, Leskovac | [miljan94.com](https://miljan94.com/) |
 | [Medica Centar](https://github.com/Svilenkovic/medica-centar-case-study) | Ginekološka ordinacija, Niš | [medicacentar.info](https://medicacentar.info/) |
 | [La Sylphide](https://github.com/Svilenkovic/la-sylphide-case-study) | Baletska škola, Novi Sad | [ballet-dobrilanovkov.com](https://www.ballet-dobrilanovkov.com/) |
 | [Green Plus](https://github.com/Svilenkovic/green-plus-case-study) | Kompenzacija reaktivne energije, Beograd | [greenplus.rs](https://greenplus.rs/) |
