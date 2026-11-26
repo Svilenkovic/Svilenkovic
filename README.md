@@ -22,7 +22,7 @@ Every project below has its own repository with screenshots, the stack and a lin
 </table>
 
 <details>
-<summary><b>All projects (75)</b></summary>
+<summary><b>All projects (85)</b></summary>
 
 **Web shops**
 
@@ -59,7 +59,17 @@ Every project below has its own repository with screenshots, the stack and a lin
 | [Nora Perfekt](https://github.com/Svilenkovic/nora-perfekt-case-study) | Cleaning and paving, Serbia | [noraperfekt.rs](https://noraperfekt.rs/) |
 | [Auto Servis Miljan94](https://github.com/Svilenkovic/miljan94-case-study) | Car repair shop, Leskovac | [miljan94.com](https://miljan94.com/) |
 | [Ana Zorana Brajović](https://github.com/Svilenkovic/ana-zorana-brajovic-case-study) | Conductor's portfolio, Belgrade | [anazoranabrajovic.com](https://anazoranabrajovic.com/) |
+| [Poslastičarnica Dubrava](https://github.com/Svilenkovic/dubrava-sombor-case-study) | Pastry shop and café, Sombor | [dubrava.rs](https://dubrava.rs/) |
+| [REGUL](https://github.com/Svilenkovic/regul-case-study) | Hygiene wholesale catalog, Belgrade | [regul011.com](https://www.regul011.com/) |
+| [Ultra Nova](https://github.com/Svilenkovic/ultra-nova-case-study) | Massage and yoga school, Novi Sad | [ultranovawellness.com](https://ultranovawellness.com/) |
+| [Labback Studio](https://github.com/Svilenkovic/labback-studio-case-study) | Creator campaign agency, Kraljevo | [labbackstudio.com](https://www.labbackstudio.com/) |
 | [Medica Centar](https://github.com/Svilenkovic/medica-centar-case-study) | Gynecology practice, Niš | [medicacentar.info](https://medicacentar.info/) |
+| [Belgrade Day Tours](https://github.com/Svilenkovic/belgrade-day-tours-case-study) | Private tours by van, Belgrade | [belgradedaytours.com](https://belgradedaytours.com/) |
+| [UMUCG](https://github.com/Svilenkovic/umucg-case-study) | Artists' association and orchestra, Podgorica | [umucg.me](https://umucg.me/) |
+| [Festival mladih umjetnika](https://github.com/Svilenkovic/festival-mladih-umjetnika-case-study) | Music and art festival, Montenegro | [festivalmladihumjetnika.com](https://festivalmladihumjetnika.com/) |
+| [Montenegro Music Production](https://github.com/Svilenkovic/montenegro-music-production-case-study) | Music production company, Podgorica | [mnemusic.me](https://mnemusic.me/) |
+| [Udruženje Zora](https://github.com/Svilenkovic/udruzenje-zora-case-study) | Rural development association, Sjenica | [udruzenjezora.rs](https://udruzenjezora.rs/) |
+| [Fondacija Lojanica](https://github.com/Svilenkovic/fondacija-lojanica-case-study) | Charitable foundation, Sjenica | [fondacijalojanica.org](https://fondacijalojanica.org/) |
 | [La Sylphide](https://github.com/Svilenkovic/la-sylphide-case-study) | Ballet school, Novi Sad | [ballet-dobrilanovkov.com](https://www.ballet-dobrilanovkov.com/) |
 | [Green Plus](https://github.com/Svilenkovic/green-plus-case-study) | Reactive power compensation, Belgrade | [greenplus.rs](https://greenplus.rs/) |
 | [Glass Service Bošnjace](https://github.com/Svilenkovic/glass-service-bosnjace-case-study) | Auto glass shop, Leskovac | [glassbosnjace.rs](https://glassbosnjace.rs/) |
